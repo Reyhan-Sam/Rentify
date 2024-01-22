@@ -1,4 +1,4 @@
-# Rentify Mobile Application
+# Rentify Mobile App
 
 Welcome to the Rentify Mobile Application repository! This project was developed for the Human Computer Interaction course.
 
