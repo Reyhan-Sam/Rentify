@@ -1,12 +1,14 @@
 # Rentify Mobile Application
-This repository consists of a mobile application developed for Human computer interaction course.
 
+Welcome to the Rentify Mobile Application repository! This project was developed for the Human Computer Interaction course.
 
-Click the link below to try the app yourself!
+## Try it Yourself!
 
-https://main--delightful-caramel-0ac037.netlify.app/tab1
+Explore the app by clicking the link below:
+[**Rentify Mobile App**](https://main--delightful-caramel-0ac037.netlify.app/tab1)
 
+## Chat GPT Integration
 
-Api Key to access the chat gpt integration
+To access the Chat GPT integration, use the provided API key:
 
 Key: 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
