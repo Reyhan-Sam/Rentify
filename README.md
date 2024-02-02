@@ -4,7 +4,7 @@ Welcome to the Rentify Mobile Application repository! This project was developed
 
 ## Try it Yourself!
 
-Explore the app by clicking the link below:
+Explore the app by clicking this link:
 [**Rentify Mobile App**](https://main--delightful-caramel-0ac037.netlify.app/tab1)
 
 ## Chat GPT Integration
